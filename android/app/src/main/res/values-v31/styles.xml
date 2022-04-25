@@ -8,5 +8,7 @@
         <item name="android:windowSplashScreenIconBackgroundColor">@color/launcherBackground</item>
 
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_branding</item>
     </style>
 </resources>
